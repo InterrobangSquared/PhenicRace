@@ -1,0 +1,61 @@
+{
+  "objectName" : "phenicmerchant",
+  "colonyTags" : ["phenic", "commerce"],
+  "rarity" : "Common",
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Vendor Nacelle",
+        "subtitle" : "A Phenic Nacelle. It sells several types of Phenic items."
+      }
+    },
+    "buyFactor" : 1.0,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : ["bomb", 5] },
+      { "item" : "phenickittyhead" },
+      { "item" : "phenicbannerlarge" },
+	  { "item" : "phenicbannersmall" },
+      { "item" : "phenicwoodchair" },
+      { "item" : "phenicwooddoor" },
+	  { "item" : "phenicsword" },
+	  { "item" : "Soda" },
+	  { "item" : "phenicccolonyexplanation-codex" },
+	  { "item" : "phenicepiphanyhist-codex" },
+	  { "item" : "phenicsyntheticexplanation-codex" },
+	  { "item" : "phenicwoodenbed" },
+	  { "item" : "phenicwoodendesk" },	
+	  { "item" : "phenicart1" },
+	  { "item" : "spawnerphenic" }	  
+    ]
+  },
+  "description" : "A Phenic Nacelle. It sells several types of items made by Phenic artisans.",
+  "shortdescription" : "Vendor Nacelle",
+  "race" : "phenic",
+  "category" : "Merchant",
+  "price" : 1000,
+  
+  "printable" : false,
+  "unbreakable" : false,
+  "apexDescription" : "An automaton acting as a merchant. Unusual.",
+  "avianDescription" : "Who is this curious merchant?",
+  "floranDescription" : "Floran ssslightly ssscared by massschine.",
+  "glitchDescription" : "Concerned. This robot seems unwilling to communicate.",
+  "humanDescription" : "I wonder if it sells candy bars.",
+  "hylotlDescription" : "This silent machine is not one of us.",
+  "novakidDescription" : "Don't see many of these doohickeys round these parts.",
+  "phenicDescription" : "I wonder if this Nacelle is selling anything nice.",
+  "inventoryIcon" : "phenicmerchanticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "phenicmerchant.png:<color>.<frame>",
+      "imagePosition" : [-14, 0],
+      "frames" : 29,
+      "animationCycle" : 2,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

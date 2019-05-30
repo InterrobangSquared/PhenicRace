@@ -1,0 +1,15 @@
+{
+	"id" : "phenicsyntheticexplanation",
+	"title" : "'Biosynthetics and Us'",
+	"description" : "A pamphlet made by the Phenics to explain their nature as synthetics.",
+	"icon" : "pheniccoversheet.png",
+	"contentPages" : [
+    "A common question our librarians hear is how an organic species can be 'synthetic'. Simply put, our race awoke in the ruins of the ones who built us. As we developed, we were surrounded by evidence and even proof that a much more advanced race came before us. When we found the first cloning chambers, it simply confirmed what we had theorized decades ago: We were built, not born. There is little evidence of our original purpose, but there is proof that we were simply engineered for some purpose.",
+	
+	"Thus, while we aren't synthetic by virtue of having circuitry and polymer in place of nerves and muscle, we are synthetic in the sense that our kind did not arise via natural processes."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

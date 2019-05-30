@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/phenic",
+		"value" : {
+			"aiFrames" : "phenicAI.png",
+			"portraitFrames" : "portraits/phenicportrait.png",
+			"staticFrames" : "staticphenic.png"	
+		}
+	}
+]

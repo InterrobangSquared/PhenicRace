@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 10
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "phenicT7.png",
+      "position" : [48, 36],
+      "fullbright" : true
+    },
+    {
+      "image" : "phenicT7lit.png",
+      "position" : [48, 36]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "phenicT7blocks.png"
+}

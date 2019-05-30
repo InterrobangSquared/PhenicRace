@@ -1,0 +1,13 @@
+{
+	"id" : "phenicdiary",
+	"title" : "The Transmission - Copy",
+	"description" : "Partial copy of the first Phenic transmission.",
+	"icon" : "pheniccoverdisk.png",
+	"contentPages" : [
+    "TRANSMIT- COMMENCE - ADAPT - RECOVER - PREVENT -PEX FR- SPIRACY- SIGNAL HOLDING- WAYFINDER TOBIRA"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,173 @@
+{
+  "kind" : "phenic",
+	"charCreationTooltip" : {
+	"title" : "phenic",
+	"subTitle" : "O2",
+	"description" : "Space geishas piloting flying bricks."
+  },
+  "nameGen" : [ "/species/phenicmalenamegen.config:names", "/species/phenicfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/phenichurt_male1.ogg", "/sfx/humanoid/phenichurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "PHENIC", "Personality" ],
+  "skull" : "/humanoid/phenic/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagphenic" },
+	    
+// Anvil
+      { "item" : "phenictier1head" },
+      { "item" : "phenictier1chest" },
+      { "item" : "phenictier1pants" },
+      { "item" : "phenictier2head" },
+      { "item" : "phenictier2chest" },
+      { "item" : "phenictier2pants" },
+      { "item" : "phenicsword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+// Anvil2
+      { "item" : "phenictier3head" },
+      { "item" : "phenictier3chest" },
+      { "item" : "phenictier3pants" },
+      { "item" : "phenictier4head" },
+      { "item" : "phenictier4chest" },
+      { "item" : "phenictier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+// Anvil3
+      { "item" : "phenictier5ahead" },
+      { "item" : "phenictier5achest" },
+      { "item" : "phenictier5apants" },
+      { "item" : "phenictier6ahead" },
+      { "item" : "phenictier6achest" },
+      { "item" : "phenictier6apants" },
+      { "item" : "phenictier5mhead" },
+      { "item" : "phenictier5mchest" },
+      { "item" : "phenictier5mpants" },
+      { "item" : "phenictier6mhead" },
+      { "item" : "phenictier6mchest" },
+      { "item" : "phenictier6mpants" },
+      { "item" : "phenictier5shead" },
+      { "item" : "phenictier5schest" },
+      { "item" : "phenictier5spants" },
+      { "item" : "phenictier6shead" },
+      { "item" : "phenictier6schest" },
+      { "item" : "phenictier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "phenicstoragelocker" },
+      { "item" : "phenicshipdoor" },
+      { "item" : "phenicshiphatch" },
+// Spinning Wheel
+      { "item" : "phenicoutfit1chest" },
+      { "item" : "phenicoutfit1legs" },
+      { "item" : "phenicoutfit2chest" },
+      { "item" : "phenicoutfit2legs" },
+      { "item" : "phenicoutfit3chest" },
+      { "item" : "phenicoutfit3legs" },
+      { "item" : "phenicoutfit4chest" },
+      { "item" : "phenicoutfit4legs" },
+// Special
+      { "item" : "phenicmerchant" }  
+	  
+	  ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/phenicmaleico.png",
+      "characterImage" : "/interface/title/phenicmale.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10" ],
+      "shirt" : [ "phenicoutfit1chest", "phenicoutfit2chest", "phenicoutfit3chest", "phenicoutfit4chest" ],
+      "pants" : [ "phenicoutfit1legs", "phenicoutfit2legs", "phenicoutfit3legs", "phenicoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/phenicfemico.png",
+      "characterImage" : "/interface/title/phenicfemale.png",
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10" ],
+      "shirt" : [ "phenicoutfit1chest", "phenicoutfit2chest", "phenicoutfit3chest", "phenicoutfit4chest" ],
+      "pants" : [ "phenicoutfit1legs", "phenicoutfit2legs", "phenicoutfit3legs", "phenicoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "ffe2c5" : "F3FFFF", "ffc181" : "F3ECE0", "d39c6c" : "C7C7CB", "c7815b" : "BBABB9" },
+    { "ffe2c5" : "F0FFFF", "ffc181" : "F0F2E1", "d39c6c" : "C4CDCC", "c7815b" : "B8B2BB" },
+    { "ffe2c5" : "E1FFFF", "ffc181" : "E1F2E4", "d39c6c" : "B5CDCF", "c7815b" : "A9B2BE" },
+    { "ffe2c5" : "C6E2FC", "ffc181" : "C6C1B8", "d39c6c" : "9A9CA3", "c7815b" : "8E8192" },
+	{ "ffe2c5" : "F3FFFF", "ffc181" : "F3ECE0", "d39c6c" : "C7C7CB", "c7815b" : "BBABB9" },
+    { "ffe2c5" : "F0FFFF", "ffc181" : "F0F2E1", "d39c6c" : "C4CDCC", "c7815b" : "B8B2BB" },
+    { "ffe2c5" : "E1FFFF", "ffc181" : "E1F2E4", "d39c6c" : "B5CDCF", "c7815b" : "A9B2BE" },
+    { "ffe2c5" : "C6E2FC", "ffc181" : "C6C1B8", "d39c6c" : "9A9CA3", "c7815b" : "8E8192" },
+	{ "ffe2c5" : "E1FFFF", "ffc181" : "E1F2E4", "d39c6c" : "B5CDCF", "c7815b" : "A9B2BE" },
+    { "ffe2c5" : "C6E2FC", "ffc181" : "C6C1B8", "d39c6c" : "9A9CA3", "c7815b" : "8E8192" }
+  ],
+  "undyColor" : [
+    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
+    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
+    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
+    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
+    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
+    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
+    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
+    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+  ],
+  "hairColor" : [
+    //DARK RED
+    { "d9c189" : "ad2716", "a38d59" : "8f1f1b", "735e3a" : "731a1a" },
+    //RUSTY RED
+    { "d9c189" : "BE471B", "a38d59" : "9B2F0C", "735e3a" : "702710" },
+    //BROWN
+    { "d9c189" : "7d3c1c", "a38d59" : "4d240b", "735e3a" : "2d1606" },
+    //DIRTY ORANGE
+    { "d9c189" : "a6671d", "a38d59" : "915622", "735e3a" : "743e1d" },
+    //DIRTY BLONDE
+    { "d9c189" : "eaa758", "a38d59" : "cd8b3d", "735e3a" : "93682c" },
+    //YELLOW
+    { "d9c189" : "e6e756", "a38d59" : "c7ac3f", "735e3a" : "a9882f" },
+    //DARK GREEN
+    { "d9c189" : "3b7f44", "a38d59" : "2e6a38", "735e3a" : "1d4b28" },
+    //TORQUOISE
+    { "d9c189" : "5BD5B6", "a38d59" : "4AA9AD", "735e3a" : "237082" },
+    //DARK BLUE
+    { "d9c189" : "425879", "a38d59" : "343965", "735e3a" : "242247" },
+    //DARK PURPLE
+    { "d9c189" : "7f3b6d", "a38d59" : "6a2e53", "735e3a" : "4b1d30" },
+    //BROWN GREY
+    { "d9c189" : "50422f", "a38d59" : "36261e", "735e3a" : "170f0d" },
+    // DARK GREY
+    { "d9c189" : "525252", "a38d59" : "363636", "735e3a" : "161616" },
+    // GREY
+    { "d9c189" : "74726f", "a38d59" : "53504d", "735e3a" : "2a251e" },
+    // GREY BLUE
+    { "d9c189" : "6f6d85", "a38d59" : "525269", "735e3a" : "3e4352" },
+    // LIGHT GREY
+    { "d9c189" : "b8b8b8", "a38d59" : "828282", "735e3a" : "555555" },
+    // WHITE
+    { "d9c189" : "eaeaea", "a38d59" : "b8b8b8", "735e3a" : "828282" }
+  ]
+}

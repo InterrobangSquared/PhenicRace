@@ -1,0 +1,29 @@
+{
+  "objectName" : "phenicbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "The Twin Epiphanies are emblazoned on this massive banner.",
+  "shortdescription" : "Large Phenic Wall Banner",
+  "race" : "phenic",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large phenic banner...",
+  "humanDescription" : "The phenic banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "phenicDescription" : "I guess it's official. We're part of the family.",  
+  "inventoryIcon" : "phenicbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "phenicbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

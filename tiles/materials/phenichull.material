@@ -1,0 +1,25 @@
+{
+  "materialId" : 26502,
+  "materialName" : "phenichull",
+  "particleColor" : [44, 44, 44, 255],
+  "itemDrop" : "phenichull",
+  "description" : "A light, durable alloy used in Phenic structures.",
+  "shortdescription" : "Phenic Hull Plate",
+  "glitchDescription" : "Curious. This metal seems too thick for its weight.",
+  "floranDescription" : "Weird metal repelsss ssspearsss.",
+  "novakidDescription" : "This is that stuff those tree people use for their stuff.",
+  "phenicDescription" : "It's ship metal, but it's still useful for building.",
+  "footstepSound" : "/sfx/blocks/footstep_metal.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "phenichull.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3120
+  }
+}

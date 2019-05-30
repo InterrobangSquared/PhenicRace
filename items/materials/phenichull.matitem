@@ -1,0 +1,15 @@
+{
+  "itemName" : "phenichull",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "phenichull.png",
+  "description" : "A light, durable alloy used in Phenic structures.",
+  "shortdescription" : "Phenic Hull Plate",
+  "glitchDescription" : "Curious. This metal seems too thick for its weight.",
+  "floranDescription" : "Weird metal repelsss ssspearsss.",
+  "novakidDescription" : "This is that stuff those tree people use for their stuff.",
+  "phenicDesctiption" : "It's ship metal, but it's still useful for building.",
+
+  "materialId" : 26502
+}

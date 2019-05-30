@@ -1,0 +1,13 @@
+{
+	"id" : "phenicccolonyexplanation",
+	"title" : "'Clonal Colony Explanation'",
+	"description" : "A pamphlet made by the Phenics to explain their biology.",
+	"icon" : "pheniccoversheet.png",
+	"contentPages" : [
+    "As you may know, a clonal colony- or a 'genet' if you're feeling exotic- is a cluster of genetically identical individuals. Our species isn't one single clonal colony, but rather an alliance of approximately 500 different colonies. It is believed that this is due to uncontrolled genetic drift following our liberation by the Epiphany. Regardless, this is the reason that many of our kind look uncannily similar."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

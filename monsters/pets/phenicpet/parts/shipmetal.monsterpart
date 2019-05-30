@@ -1,0 +1,8 @@
+{
+  "name" : "shipmetal",
+  "category" : "phenicpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "shipmetal.png"
+  }
+}

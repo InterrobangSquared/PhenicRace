@@ -1,0 +1,15 @@
+{
+  "itemName" : "phenicgreeble",
+  "price" : 1,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "phenicgreeble1.png",
+  "description" : "A visually engaging material used in Phenic structures.",
+  "shortdescription" : "Phenic Internals",
+  "glitchDescription" : "Surprised. This is a surprisingly intricate alloy.",
+  "floranDescription" : "Fansssscyyyyy.",
+  "novakidDescription" : "What in tarnation did they use to make this?",
+  "phenicDescription" : "Trust me, it's easier to make this than it looks.",
+
+  "materialId" : 26503
+}

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/phenic",
+		"value" : [
+		    "/ships/phenic/phenict0.structure",
+			"/ships/phenic/phenict1.structure",
+			"/ships/phenic/phenict2.structure",
+			"/ships/phenic/phenict3.structure",
+			"/ships/phenic/phenict4.structure",
+			"/ships/phenic/phenict5.structure",
+			"/ships/phenic/phenict6.structure",
+			"/ships/phenic/phenict7.structure",
+			"/ships/phenic/phenict8.structure"
+		]
+	}
+]

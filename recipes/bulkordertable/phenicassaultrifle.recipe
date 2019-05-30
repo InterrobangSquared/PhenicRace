@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+	{ "item" : "copperbar", "count" : 5 }
+ 
+  ],
+  "output" : {
+    "item" : "phenicassaultrifle",
+    "count" : 1
+  },
+  "duration" : 0.1,
+  "groups" : [ "phenicbulkcrafter", "all" ]
+}

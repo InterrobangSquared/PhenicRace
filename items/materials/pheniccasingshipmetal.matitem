@@ -1,0 +1,11 @@
+{
+  "itemName" : "pheniccasingshipmetal",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "pheniccasingshipmetal.png",
+  "shortdescription" : "Phenic Casing",
+  "description" : "Resilient outer casing, used by the Epiphenic Hive to shield their ships",
+
+  "materialId" : 26504
+}

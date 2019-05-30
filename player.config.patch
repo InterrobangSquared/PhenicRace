@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/phenic", "value" : [ "protectorate1", "protectorate2", "phenicdiary" ] }
+]

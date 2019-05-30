@@ -1,0 +1,8 @@
+{
+  "name" : "fullgrey",
+  "category" : "phenicpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

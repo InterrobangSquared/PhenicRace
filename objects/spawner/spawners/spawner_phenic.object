@@ -1,0 +1,48 @@
+{
+  "objectName" : "spawnerphenic",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "Signals a Phenic to appear. Simply place and then leave the planet or ship. Once you return there will be an NPC.",
+  "shortdescription" : "Phenic Spawner",
+  "race" : "phenic",
+  "printable" : false,
+  "category" : "spawner",
+  "price" : 100,
+  "apexDescription" : "Maybe I can reverse engineer this.",
+  "avianDescription" : "What could I possibly want with a Phenic?",
+  "floranDescription" : "Floran not sssure if want to sssummon Phenics.",
+  "glitchDescription" : "Concern. These were all meant to be destroyed.",
+  "humanDescription" : "What could I possibly want with those... things?",
+  "hylotlDescription" : "A Phenic spawner. These shouldn't exist.",
+  "phenicDescription" : "Not sure why I need a device to do this, but hey.",
+  "inventoryIcon" : "defaulticon.png",
+  "orientations" : [
+    {
+      "image" : "spawner_phenic.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "background" ]
+    }
+  ],
+  "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
+  "scriptDelta" : 1,
+  //6000,
+  "animation" : "/objects/spawner/spawners/phenic.animation",
+  "animationParts" : {
+    "switch" : "spawner_phenic.png"
+  },
+  "animationPosition" : [-8, 0],
+  "inputNodes" : [ ],
+  "outputNodes" : [ ],
+  "spawner" : {
+    "searchRadius" : 32.0,
+    "npcSpeciesOptions" : [ "phenic" ],
+    "npcTypeOptions" : [ "villager" ],
+    "npcParameterOptions" : [
+      {
+        "dropPools" : [ ]
+      }
+    ]
+  }
+}

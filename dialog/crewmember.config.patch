@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/phenic",
+		"value": {
+			"default": [
+				"Another day in the void",
+				"Next time we're in orbit, I'm going to take a walk",
+				"You ever wonder how many of us are out there?",
+				"As long as we're all together, they won't win",
+				"I've been having strange dreams again",
+				"There's a lot of weird life in this galaxy",
+				"It's nothing like our home, isn't it?"
+			]
+		}
+	}
+]

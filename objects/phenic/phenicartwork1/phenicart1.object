@@ -1,0 +1,29 @@
+{
+  "objectName" : "phenicart1",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "It's certainly got colors. Occasionally.",
+  "shortdescription" : "Large Phenic Artwork",
+  "race" : "phenic",
+  "apexDescription" : "Hmm...",
+  "avianDescription" : "What sort of wingless work is this?!",
+  "floranDescription" : "Floran mere pawn in game of life, floran'sss head hurt.",
+  "glitchDescription" : "Charmed. It reminds me of a tapestry.",
+  "humanDescription" : "Looks like they spilled paint on a circuit board.",
+  "hylotlDescription" : "Why is it...like that?",
+  "novakidDescription" : "I reckon this is what city folk call 'modern art'.",
+  "phenicDescription" : "It's an allegory for the relationship between the Hyphenic and Kokoku Genets.",  
+  "inventoryIcon" : "phenicart1icon.png",
+  "orientations" : [
+    {
+      "image" : "phenicart1.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

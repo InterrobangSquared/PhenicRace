@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 10 }
+ 
+  ],
+  "output" : {
+    "item" : "pheniccasingshipmetal",
+    "count" : 50
+  },
+  "duration" : 0.1,
+  "groups" : [ "phenicbulkcrafter", "all" ]
+}

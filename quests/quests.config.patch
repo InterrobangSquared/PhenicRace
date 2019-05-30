@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/phenic",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/phenic",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

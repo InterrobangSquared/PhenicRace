@@ -1,0 +1,13 @@
+{
+	"id" : "pheniclostjournal1",
+	"title" : "A Misplaced Journal",
+	"description" : "A journal belonging to...a friend of yours? They must have lost it. The last page reads...",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Those new people, the Phenics. I'm always really creeped out by them. It's their personality. You know those old-world geishas? Super demure, super fancy. It's like that, but there's some extra component to it. Around each other they seem decently comfortable, but the second you find a lone Phenic they get all monotone as if something just sucked the life out of them. It's like that whole schtick is an act to keep you from getting creeped out. I think tomorrow I'm just going to up and ask one of them what it's about."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"id" : "phenicepiphanyhist",
+	"title" : "Epiphany - A Primer",
+	"description" : "A pamphlet made by the Phenics to explain The significance of the word epiphany.",
+	"icon" : "pheniccoversheet.png",
+	"contentPages" : [
+    "'Epiphany' is a word that appears many times in our history, our culture, and our daily lives. The symbol we use for ourselves is called an Epiphany, our culture is known as the Epiphenic Genet- or 'hive'- and the word carries a sense of purpose in our tongue. It is not without reason. Centuries ago we were mindless beings, picking our way through the scraps of a dead civilisation. It was not until some tiny event, The First Epiphany, that we first had the free will other races were given freely.",
+	
+	"In our culture, the term 'Epiphany' refers to the process of a species breaking free of a binding issue...and in the process ever approaching their ideal form."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "materialId" : 26503,
+  "materialName" : "phenicgreeble",
+  "particleColor" : [44, 44, 44, 255],
+  "itemDrop" : "phenicgreeble",
+  "description" : "A visually engaging material used in Phenic structures.",
+  "shortdescription" : "Phenic Internals",
+  "glitchDescription" : "Surprised. This is a rather intricate alloy.",
+  "floranDescription" : "Fansssscyyyyy.",
+  "novakidDescription" : "What in tarnation did they use to make this?",
+  "phenicDescription" : "Trust me, it's easier to make this than it looks.",
+
+  "footstepSound" : "/sfx/blocks/footstep_metal.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "phenicgreeble1.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3120
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "pheniccasing",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "pheniccasing.png",
+  "shortdescription" : "Phenic Casing",
+  "description" : "Resilient outer casing, in the Phenic style.",
+
+  "materialId" : 26501
+}
